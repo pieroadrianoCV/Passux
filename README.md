@@ -87,4 +87,4 @@ host    all             all             ::1/128                 md5
 ```bash
   sudo systemctl restart postgresql
 ```
-- Ahora podemos hacer `bin/rails db:setup` `bin/rails db:s`
+- Ahora podemos hacer `bin/rails db:setup` `bin/rails s`
